@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Presale_DAPP/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Presale_DAPP/static/js/main.37359ab9.chunk.js",
+    "main.js.map": "/Presale_DAPP/static/js/main.37359ab9.chunk.js.map",
+    "runtime-main.js": "/Presale_DAPP/static/js/runtime-main.a767678d.js",
+    "runtime-main.js.map": "/Presale_DAPP/static/js/runtime-main.a767678d.js.map",
+    "static/js/2.b1032d91.chunk.js": "/Presale_DAPP/static/js/2.b1032d91.chunk.js",
+    "static/js/2.b1032d91.chunk.js.map": "/Presale_DAPP/static/js/2.b1032d91.chunk.js.map",
+    "static/js/3.e8623c17.chunk.js": "/Presale_DAPP/static/js/3.e8623c17.chunk.js",
+    "static/js/3.e8623c17.chunk.js.map": "/Presale_DAPP/static/js/3.e8623c17.chunk.js.map",
+    "index.html": "/Presale_DAPP/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Presale_DAPP/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b1032d91.chunk.js.LICENSE.txt": "/Presale_DAPP/static/js/2.b1032d91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a767678d.js",
+    "static/js/2.b1032d91.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.37359ab9.chunk.js"
+  ]
+}
